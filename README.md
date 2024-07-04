@@ -1,4 +1,4 @@
-<h2>Filterable Image Gallery</h2>
+<h3>Filterable Image Gallery</h3>
 <p>Tech Stack Used: HTML, CSS,Javascript</p>
 <img src="https://github.com/sathisuma/projects/assets/164530377/47cc58e8-90f0-4789-8d4b-c910cce4f4c3">
 <h3>Dynamic Calculator</h3>
